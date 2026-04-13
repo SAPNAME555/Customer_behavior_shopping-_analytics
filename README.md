@@ -9,6 +9,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+![dashboard](images/dashboard.png)
+
 **Objective:** *Analyze buying patterns and extract meaningful business insights from 3,900 customer purchase records to support strategic decision-making.*
 
 </div>
@@ -66,6 +68,7 @@ customer-shopping-behavior-analytics/
 ---
 
 ## 🔍 Phase 1 — Python Analysis (Jupyter Notebook)
+![notebook](images/data_cleaning_null_handling.png)
 
 **File:** `customer_behavior_analysis_01.ipynb`
 
@@ -87,6 +90,7 @@ customer-shopping-behavior-analytics/
 ---
 
 ## 🗄️ Phase 2 — SQL Business Intelligence
+![mysq;](images/window_function_sql_query.png)
 
 **File:** `customer_behavior_analysis_01.sql`  
 **Database:** MySQL 8.0
