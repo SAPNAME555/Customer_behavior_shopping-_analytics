@@ -71,7 +71,7 @@ customer-shopping-behavior-analytics/
 ## 🔍 Phase 1 — Python Analysis (Jupyter Notebook)
 ![notebook](images/data_cleaning_null_handling.png)
 
-**File:** `customer_behavior_analysis_01.ipynb`
+**File:** `[Download Dataset](notebooks/customer_behavior_analysis_01.ipynb)`
 
 ### What Was Done:
 | Step | Action |
@@ -93,7 +93,7 @@ customer-shopping-behavior-analytics/
 ## 🗄️ Phase 2 — SQL Business Intelligence
 ![mysq;](images/window_function_sql_query.png)
 
-**File:** `customer_behavior_analysis_01.sql`  
+**File:** `[Download sql](sql/customer_behavior_analysis_01.sql)`  
 **Database:** MySQL 8.0
 
 > 10 structured business questions — each query directly answers a real business decision.
@@ -118,7 +118,7 @@ customer-shopping-behavior-analytics/
 ## 📈 Phase 3 — Power BI Dashboard
 ![dashboard](images/working_dashboard.png)
 
-**File:** `customer_behavior_analysis.pbix`
+**File:** `[Download pbix](dashboard.pbix/customer_behavior_analysis.pbix)`
 
 ### Dashboard Highlights:
 - 📌 **KPI Cards** — Total Revenue, Avg Purchase, Avg Rating, Total Customers
@@ -134,7 +134,7 @@ customer-shopping-behavior-analytics/
 
 ## 📋 Dataset Overview
 
-**Source:** `customer_shopping_behavior.csv`
+**Source:** `[Download Dataset](data/raw_data/customer_shopping_behavior.csv)`
 
 | Column | Description |
 |--------|-------------|
